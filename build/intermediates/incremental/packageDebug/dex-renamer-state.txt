@@ -1,0 +1,4 @@
+#Thu Mar 01 17:54:44 IST 2018
+base.0=/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

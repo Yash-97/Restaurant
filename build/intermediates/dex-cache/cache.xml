@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yashsinghania/.android/build-cache/4972b5dfda3e556a2ecdc585bb78b3cd39419f77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/build/intermediates/pre-dexed/debug/classes_c975475b9291846bb94bf0669c90903c9efdba23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yashsinghania/.android/build-cache/4972b5dfda3e556a2ecdc585bb78b3cd39419f77/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_30f3fd159e4e560424e82bf027cd2f740901f55f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/build/intermediates/pre-dexed/debug/unity-classes_e5f419d90be059cb16d6672e4eab9feb8e0476ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yashsinghania/.android/build-cache/4972b5dfda3e556a2ecdc585bb78b3cd39419f77/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="/Users/yashsinghania/Desktop/Restaurant_final/Restaurant/build/intermediates/pre-dexed/debug/Vuforia_20d12f1313110feb62b5ae86ffd019ed4fc80d2b.jar" />
+    </item>
+
+</items>
